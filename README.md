@@ -27,3 +27,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ***
 ## License
 [MIT](https://github.com/sidoniusblon/kodluyoruzilkrepo/blob/main/LICENSE)
+
+![Resim](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)
