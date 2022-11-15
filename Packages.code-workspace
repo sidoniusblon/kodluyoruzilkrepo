@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "D:/unity/TOP/Packages"
+		},
+		{
+			"path": "../../../Patikadev/javascriptclock"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
